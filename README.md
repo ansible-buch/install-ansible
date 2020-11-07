@@ -1,4 +1,4 @@
-# Recommended way to install Ansible on various distributions:
+# Recommended way to install Ansible
 
 ## Debian 10
 
