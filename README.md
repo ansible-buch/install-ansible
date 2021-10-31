@@ -1,5 +1,12 @@
 # Recommended way to install Ansible
 
+## Debian 11
+
+```sh
+apt update
+apt install ansible
+```
+
 ## Debian 10
 
 ```sh
@@ -9,7 +16,7 @@ apt update
 apt -t buster-backports install ansible
 ```
 
-## CentOS 7/8
+## Rocky Linux 8, CentOS 7/8
 
 ```sh
 yum install epel-release
@@ -17,7 +24,7 @@ yum install ansible
 ```
 
 
-##  openSUSE 15
+##  openSUSE Leap 15
 
 ```sh
 zypper install ansible
