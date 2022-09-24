@@ -16,7 +16,7 @@ apt update
 apt -t buster-backports install ansible
 ```
 
-## Rocky Linux 8, CentOS 7/8
+## Rocky Linux 8/9
 
 ```sh
 yum install epel-release
@@ -30,9 +30,9 @@ yum install ansible
 zypper install ansible
 ```
 
-## Ubuntu 20.04 LTS
+## Ubuntu 20.04/22.04 LTS
 
 ```sh
-sudo apt-get update
-sudo apt-get install ansible
+sudo apt update
+sudo apt install ansible
 ```
