@@ -11,8 +11,8 @@ apt install ansible
 ## Rocky Linux 9/8
 
 ```sh
-yum install epel-release
-yum install ansible
+dnf install epel-release
+dnf install ansible
 ```
 
 
