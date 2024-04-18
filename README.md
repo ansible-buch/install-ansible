@@ -43,8 +43,8 @@ following version of Ansible:
 |Rocky 9|7.7.0|
 |Rocky 8|8.3.0|
 |openSUSE Leap 15|2.9.27|
-|Ubuntu 22.04|2.10.8|
 |Ubuntu 24.04|9.2.0|
+|Ubuntu 22.04|2.10.8|
 
 On systems with outdated versions (such like openSUSE) you may prefer the
 installation via Python PIP:
